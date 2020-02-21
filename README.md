@@ -10,4 +10,5 @@ Also depends on a file stored in the parent directory named aeriskey.json of thi
 }
 
 Keys can be obtained by signing up as a developer at: https://www.aerisweather.com/signup/developer/
+
 This is also the service that provides the weather data.
